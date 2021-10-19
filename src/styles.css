@@ -10,3 +10,6 @@
 .badge {
   @apply bg-secondary-100 text-secondary-200 text-xs rounded-full absolute top-0 ml-2 mt-2 px-2 uppercase font-bold;
 }
+.btn {
+  @apply uppercase tracking-wider rounded-full py-2 px-3 font-bold text-xs cursor-pointer;
+}
